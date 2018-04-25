@@ -1,0 +1,5 @@
+hexdump
+pefile
+construct>=2.9
+pbkdf2
+pycrypto
